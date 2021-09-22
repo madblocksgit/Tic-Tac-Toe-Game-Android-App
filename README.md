@@ -1,4 +1,4 @@
-## TicTacToe Offline
+## TicTacToe 
 
 An offline android app where you can play the classic tic tac toe game vs the computer or another human player
 
@@ -10,3 +10,13 @@ An offline android app where you can play the classic tic tac toe game vs the co
 
 ### 3. Play!
 ![Play!](screens/screen3.jpg)
+
+# Tools
+1. Android Studio
+
+# Progrmaming Language
+1. Java
+
+# Contact
+For any questions, do contact me at <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
+
